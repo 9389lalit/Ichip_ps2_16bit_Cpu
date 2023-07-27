@@ -30,4 +30,7 @@ This CPU can execute a series of predefined instructions on the Data, all being 
 - 10110 Jump to the given instruction address if the last output was negative
 - 10111 End the program
 
+# Output Waveform
+![image](https://github.com/9389lalit/Ichip_ps2_16bit_Cpu/assets/99964550/2046d258-521d-496c-8ccc-dd18360526ee)
+
 
